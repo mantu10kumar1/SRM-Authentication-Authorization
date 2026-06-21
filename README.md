@@ -1,4 +1,4 @@
-Markdown
+
 # Full-Stack Role-Based Authentication & Authorization System
 
 A production-ready, enterprise-grade authentication and authorization platform built using **Spring Boot**, **React 19**, **Tailwind CSS**, and **MySQL**. The system implements secure **JWT (JSON Web Tokens)** logic for seamless, stateless authentication and handles role-based authorization (RBAC) securely across both backend filters and frontend routing.
